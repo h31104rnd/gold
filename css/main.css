@@ -142,7 +142,7 @@ br {
   height: 60px;
   margin: auto;
   border:3px solid;
-
+  vertical-align: middle;
 }
 
 .second {
@@ -152,7 +152,7 @@ br {
   height: 60px;
   margin: auto;
   border:3px solid;
-
+  vertical-align: middle;
 }
 
 .third {
@@ -162,5 +162,5 @@ br {
   height: 60px;
   margin: auto;
   border:3px solid;
-
+  vertical-align: middle;
 }
