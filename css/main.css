@@ -164,3 +164,11 @@ br {
   border:3px solid;
   vertical-align: middle;
 }
+
+.script {
+ text-align: center;
+ color: white;
+ background-color: grey;
+
+
+}
